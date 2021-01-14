@@ -1,0 +1,97 @@
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+
+}
+.font{
+    font-size: 65px;
+}
+.color1{
+    color: #e74c3c;
+}
+.color2{
+    color:#0a3d62;
+}
+p{
+    color: #7f8c8d;
+}
+.bgcolor{
+    background-color: #F8F9FA;
+    padding-bottom: 15px;
+}
+li{
+    font-weight: 700;
+}
+.bt{
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-weight: 600;
+    float: right;
+    overflow: hidden;
+
+}
+.bbt{
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-weight: 600;
+    float: left;
+
+}
+
+h3{
+    color: #FA804C;
+    font-weight: 700;
+    font-size: 32px;
+    float: left;
+}
+.card-footer{
+    background-color: #ffffff;
+    border: none;
+}
+.im{
+    background-color:#bdc3c7 ;
+    border-radius: 15px ;
+    padding-top: px;
+    height: 300px;
+    
+}
+.card{
+    border: none;
+    padding-top: 20px;
+}
+.m{
+    height: 300px;
+}
+h5{
+    font-weight: 700;
+    color: #34495e;
+    font-size: 25px;
+}
+.size{
+    width: 20%;
+    float: left;
+    margin-right: 10px;
+}
+.l{
+    width: 70%;
+    overflow: hidden;
+    float: left;
+    padding-left: 4px
+
+
+}
+.size img{
+    height: 90px;
+    
+}
+.ft{
+    color: #ffffff;
+    font-weight: 600;
+    height: 50px;
+    padding-top: 10px;
+}
+.bu{
+    padding: 15px 30px;
+    font-weight: 800;
+    border-radius: 20%;
+}
